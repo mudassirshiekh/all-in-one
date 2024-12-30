@@ -76,6 +76,7 @@ Included are:
 </details>
 
 ## Screenshots
+## By Mudassir Alam
 | First setup | After installation |
 |---|---|
 | ![image](https://github.com/user-attachments/assets/6ef5d7b5-86f2-402c-bc6c-b633af2ca7dd) | ![image](https://github.com/user-attachments/assets/939d0fdf-436f-433d-82d3-27548263a040) |
